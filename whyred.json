@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.7-20190727-whyred-Fan-Edition.zip",
+      "filename": "Havoc-OS-v2.7-20190728-whyred-Fan-Edition.zip",
       "version": "v2.7",
       "romtype": "Fan Edition",
       "size": "667839194",
       "datetime": 1564223267,
-      "id": "e2cd32903d57b8164574c12bf70a01677b90fe97ced2b6e809493b426ad3bd4c",
-      "url": "https://sourceforge.net/projects/ikarosdev/files/HavocOS/whyred/Havoc-OS-v2.7-20190727-whyred-Fan-Edition.zip/download"
+      "id": "e2cd32903d57b816t574c12bf70a01677b90fe97ced2b6e809493b426ad3bd4c",
+      "url": "https://sourceforge.net/projects/ikarosdev/files/HavocOS/whyred/Havoc-OS-v2.7-20190728-whyred-Fan-Edition.zip/download"
     }
   ]
 }
