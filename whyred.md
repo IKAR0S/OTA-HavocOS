@@ -1,5 +1,5 @@
-• Added OTA
-• Switched to PureCaf X7
-• Updated device tree source (thanks to Rashed)
-• Added some android Q QS icons (thanks to EvolutionX)
 • Fixed low incall volume issue
+• Added some android Q QS icons (thanks to EvolutionX)
+• Updated device tree source (thanks to Rashed)
+• Switched to PureCaf X7
+• Added OTA
